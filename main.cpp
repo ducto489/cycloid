@@ -72,6 +72,8 @@ void drawCircle(void)
 
 void drawCar(void)
 {
+    // Code adapted from GeeksForGeeks:
+    // https://www.geeksforgeeks.org/draw-a-moving-car-using-computer-graphics-programming-in-c/ 
     for (int i = -50; i < WIDTH_OF_SCREEN; i+=SPEED_OF_CAR)
     {
         drawCycloidLineAndStraightLine(i+65);
