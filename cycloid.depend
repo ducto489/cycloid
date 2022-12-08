@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1638863065 source:c:\users\ducto\documents\workplace\learn-new-things\cycloid\main.cpp
+	<conio.h>
+	<graphics.h>
+	<dos.h>
+	<cmath>
+	<stdio.h>
+
+1266072614 c:\program files (x86)\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1638864703 source:e:\old-file\workplace\cycloid\main.cpp
+	<conio.h>
+	<graphics.h>
+	<dos.h>
+	<cmath>
+	<stdio.h>
+
+1638864703 source:e:\workplace\cycloid\main.cpp
+	<conio.h>
+	<graphics.h>
+	<dos.h>
+	<cmath>
+	<stdio.h>
+
